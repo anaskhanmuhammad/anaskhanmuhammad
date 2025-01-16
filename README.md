@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Software Engineering Student<br>👯 I’m currently working on Web Development<br>
+ I’m a Software Engineering Student<br> I’m currently working on Web Development<br>
 
 
 # 💻 Tech Stack:
